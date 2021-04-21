@@ -1,2 +1,2 @@
-# FisrtCheckPonit
+# Fitness App
 Check ponit
